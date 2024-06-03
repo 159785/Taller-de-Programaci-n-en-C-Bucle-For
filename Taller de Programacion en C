@@ -1,0 +1,84 @@
+Taller de Programacion en C
+Este repositorio contiene las soluciones a los ejercicios del taller de programación en C utilizando los bucles `for`, `while` y `do while`.
+Estructura del Repositorio
+Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con `do while`. A continuación se detalla la ubicación de cada uno de los ejercicios: 
+1. Suma de los dígitos de un número
+   . "For": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/1.%20Suma%20de%20los%20d%C3%ADgitos%20de%20un%20n%C3%BAmero%20-%20For
+   . "While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/1.%20Suma%20de%20los%20d%C3%ADgitos%20de%20un%20n%C3%BAmero%20-%20While
+   . "Do While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/1.%20Suma%20de%20los%20d%C3%ADgitos%20de%20un%20n%C3%BAmero%20-%20Do%20While
+2. Inverso de un número
+   .  "For": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/78365f26f0b4bffef6cd34d59f1ccf4b5fb8d6cf/2.%20Inverso%20de%20un%20n%C3%BAmero%20-%20For
+   . "While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/2.%20Inverso%20de%20un%20n%C3%BAmero%20-%20While
+   . "Do While" :https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/dd84aa4870414fa5c3d7a3bfc7a6d8d1347da926/2.%20Inverso%20de%20un%20n%C3%BAmero%20-%20Do%20While
+3. Potencia mediante sumas sucesivas
+   . "For" : https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/3.%20Potencia%20mediante%20sumas%20sucesivas%20-%20For
+   . "While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/3.%20Potencia%20mediante%20sumas%20sucesivas%20-%20While
+    .  "Do While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/3.%20Potencia%20mediante%20sumas%20sucesivas%20-%20Do%20While
+4. Radicación mediante restas sucesivas
+   . "For": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/4.%20Radicaci%C3%B3n%20mediante%20restas%20sucesivas%20-%20For
+   . "While":https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/4.%20Radicaci%C3%B3n%20mediante%20restas%20sucesivas%20-%20While
+   . "Do While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/4.%20Radicaci%C3%B3n%20mediante%20restas%20sucesivas%20-%20Do%20While
+5. Serie de Fibonacci
+   . "For":: https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/5.%20Serie%20de%20Fibonacci%20-%20For
+   . "While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/5.%20Serie%20de%20Fibonacci%20-%20While
+   . "Do While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/5.%20Serie%20de%20Fibonacci%20-%20Do%20While
+6. Factorial de un número
+   . "For": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/6.%20Factorial%20de%20un%20n%C3%BAmero%20-%20For
+   . "While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/6.%20Factorial%20de%20un%20n%C3%BAmero%20-%20While
+   . "Do While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/6.%20Factorial%20de%20un%20n%C3%BAmero%20-%20Do%20While
+7. Suma de una serie aritmética
+   . "For": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/7.%20Suma%20de%20una%20serie%20aritm%C3%A9tica%20-%20For
+   . "While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/7.%20Suma%20de%20una%20serie%20aritm%C3%A9tica%20-%20While
+   . "Do While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/7.%20Suma%20de%20una%20serie%20aritm%C3%A9tica%20-%20Do%20While
+8. Producto de una serie geométrica
+   . "For": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/8.%20Producto%20de%20una%20serie%20geom%C3%A9trica%20-%20For
+   . "While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/8.%20Producto%20de%20una%20serie%20geom%C3%A9trica%20-%20While
+   . "Do While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/8.%20Producto%20de%20una%20serie%20geom%C3%A9trica%20-%20Do%20While
+9. Número de dígitos de un número
+   . "For": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/9.%20N%C3%BAmero%20de%20d%C3%ADgitos%20de%20un%20n%C3%BAmero%20-%20For
+   . "While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/9.%20N%C3%BAmero%20de%20d%C3%ADgitos%20de%20un%20n%C3%BAmero%20-%20While
+   . "Do While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/9.%20N%C3%BAmero%20de%20d%C3%ADgitos%20de%20un%20n%C3%BAmero%20-%20Do%20While
+10. Verificar si un número es primo
+   . "For": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/10.%20Verificar%20si%20un%20n%C3%BAmero%20es%20primo%20-%20For
+   . "While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/10.%20Verificar%20si%20un%20n%C3%BAmero%20es%20primo%20-%20While
+   . "Do While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/10.%20Verificar%20si%20un%20n%C3%BAmero%20es%20primo%20-%20Do%20While
+11. Encontrar el MCD (Máximo Común Divisor)
+   . "For": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/11.%20Encontrar%20el%20MCD%20(M%C3%A1ximo%20Com%C3%BAn%20Divisor)%20-%20For
+   . "While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/11.%20Encontrar%20el%20MCD%20(M%C3%A1ximo%20Com%C3%BAn%20Divisor)%20-%20While
+   . "Do While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/11.%20Encontrar%20el%20MCD%20(M%C3%A1ximo%20Com%C3%BAn%20Divisor)%20-%20Do%20While
+12. Sumar los números impares hasta n
+   . "For": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/12.%20Sumar%20los%20n%C3%BAmeros%20impares%20hasta%20n%20-%20For
+   . "While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/12.%20Sumar%20los%20n%C3%BAmeros%20impares%20hasta%20n%20-%20While
+   . "Do While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/12.%20Sumar%20los%20n%C3%BAmeros%20impares%20hasta%20n%20-%20Do%20While
+13. Sumar los números pares hasta n
+   . "For": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/13.%20Sumar%20los%20n%C3%BAmeros%20pares%20hasta%20n%20-%20For
+   . "While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/13.%20Sumar%20los%20n%C3%BAmeros%20pares%20hasta%20n%20-%20While
+   . "Do While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/13.%20Sumar%20los%20n%C3%BAmeros%20pares%20hasta%20n%20-%20Do%20While
+14. Suma de los cuadrados de los primeros n números
+   . "For": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/14.%20Suma%20de%20los%20cuadrados%20de%20los%20primeros%20n%20n%C3%BAmeros%20-%20For
+   . "While":https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/14.%20Suma%20de%20los%20cuadrados%20de%20los%20primeros%20n%20n%C3%BAmeros%20-%20WhileTT6
+   . "Do While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/14.%20Suma%20de%20los%20cuadrados%20de%20los%20primeros%20n%20n%C3%BAmeros%20-%20Do%20While
+15. Suma de los cubos de los primeros n números
+   . "For": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/15.%20Suma%20de%20los%20cubos%20de%20los%20primeros%20n%20n%C3%BAmeros%20-%20For
+   . "While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/15.%20Suma%20de%20los%20cubos%20de%20los%20primeros%20n%20n%C3%BAmeros%20-%20While
+   . "Do While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/15.%20Suma%20de%20los%20cubos%20de%20los%20primeros%20n%20n%C3%BAmeros%20-%20Do%20While
+16. Suma de una serie de números fraccionarios
+   . "For": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/16.%20Suma%20de%20una%20serie%20de%20n%C3%BAmeros%20fraccionarios%20-%20For
+   . "While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/16.%20Suma%20de%20una%20serie%20de%20n%C3%BAmeros%20fraccionarios%20-%20While
+   . "Do While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/16.%20Suma%20de%20una%20serie%20de%20n%C3%BAmeros%20fraccionarios%20-%20Do%20While
+17. Producto de una serie de números fraccionarios
+   . "For": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/17.%20Producto%20de%20una%20serie%20de%20n%C3%BAmeros%20fraccionarios%20-%20For
+   . "While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/17.%20Producto%20de%20una%20serie%20de%20n%C3%BAmeros%20fraccionarios%20-%20While
+   . "Do While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/17.%20Producto%20de%20una%20serie%20de%20n%C3%BAmeros%20fraccionarios%20-%20Do%20While
+18. Contar los números primos hasta n
+   . "For": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/18.%20Contar%20los%20n%C3%BAmeros%20primos%20hasta%20n%20-%20For
+   . "While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/18.%20Contar%20los%20n%C3%BAmeros%20primos%20hasta%20n%20-%20While
+   . "Do While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/18.%20Contar%20los%20n%C3%BAmeros%20primos%20hasta%20n%20-%20Do%20While
+19. Calcular el n-ésimo número triangular
+   . "For": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/19.%20Calcular%20el%20n-%C3%A9simo%20n%C3%BAmero%20triangular%20-%20For
+   . "While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/fddba3dd5e2f4474ad3c933cd84876f9e639df3f/19.%20Calcular%20el%20n-%C3%A9simo%20n%C3%BAmero%20triangular%20-%20While
+   . "Do While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/2c5e853d0c097be95c4575bea6d05a1aff8da1ef/19.%20Calcular%20el%20n-%C3%A9simo%20n%C3%BAmero%20triangular%20-%20Do%20While
+20. Calcular la suma de los factoriales de los primeros n números
+   . "For": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/fddba3dd5e2f4474ad3c933cd84876f9e639df3f/20.%20Calcular%20la%20suma%20de%20los%20factoriales%20de%20los%20primeros%20n%20n%C3%BAmeros%20-%20For
+   . "While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/fddba3dd5e2f4474ad3c933cd84876f9e639df3f/20.%20Calcular%20la%20suma%20de%20los%20factoriales%20de%20los%20primeros%20n%20n%C3%BAmeros%20-%20While
+   . "Do While": https://github.com/159785/Taller-de-Programaci-n-en-C-Bucle-for-while-do-while/blob/fddba3dd5e2f4474ad3c933cd84876f9e639df3f/20.%20Calcular%20la%20suma%20de%20los%20factoriales%20de%20los%20primeros%20n%20n%C3%BAmeros%20-%20Do%20While
